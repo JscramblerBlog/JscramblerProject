@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.1_83f55327f92eb2010b7911d58acb7ac018540e47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Caskroom/android-sdk/3859397/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.1_27440ef56bc6a6791a4be3388de0b252ba7974e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.1_7a37713f05494b6ca474437c12847e1091ed4437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.1_2c0693328a94e1fa1af3f8b4aa067407efe13012.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/JscramblerProject/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_980ecfc2bce33febc7667eb94356158a299088f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.1_576ad1d8c2e544e7bc7f2a9e41e1bb3bf058e5e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.1_c1e3fa19781b0d9cf9e947752e139b7cfd0d7f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.1_9e0abd5ca3b41606631ccbae1d0c702897069006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.1_887641d9734dffde4ea24e4e20ac25485a6760cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.1_f029046a00c7139e34d0353735b1c1bf835ec5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.1_7053054dc011fb649f98ae949a76c0224d98243a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.1_09a5c07cce571d636c2f6dcf9c1670b70956ec36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_577b26029dba9dad2746bed5edd11fe906bcbc60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.1_6bb613b926c5be06c9ccf46254f4256a46ed87c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.1_c4e7f0e61edd3515a552564532e48f2ecfcd1642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/exploded-aar/JscramblerProject/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/Users/daniela/Desktop/JscramblerProject/platforms/android/build/intermediates/pre-dexed/F0/debug/JscramblerProject-runtime-unspecified_64d0c65a329e0f22b2d5e6f398662cae02448c8f.jar" />
+    </item>
+
+</items>
